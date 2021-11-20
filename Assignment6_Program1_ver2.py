@@ -83,4 +83,8 @@ Final1stNum, Final2ndNum, Final3rdNum, Final4thNum = AskInput()
 FinalHighestNum, FinalMidHighNum, FinalMidLowNum, FinalLowestNum = Solve(Final1stNum, Final2ndNum, Final3rdNum, Final4thNum)
 
 #3 print the highest number
+<<<<<<< HEAD
 Display(FinalHighestNum, FinalMidHighNum, FinalMidLowNum, FinalLowestNum)
+=======
+Display(FinalHighestNum, FinalMidHighNum, FinalMidLowNum, FinalLowestNum)
+>>>>>>> 1f5c34f2da9b42e3e9a39af46dcd581f98c2a67d
