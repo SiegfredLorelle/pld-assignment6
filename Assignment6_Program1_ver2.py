@@ -84,5 +84,3 @@ FinalHighestNum, FinalMidHighNum, FinalMidLowNum, FinalLowestNum = Solve(Final1s
 
 #3 print the highest number
 Display(FinalHighestNum, FinalMidHighNum, FinalMidLowNum, FinalLowestNum)
-
-#4 ask if want to try again
