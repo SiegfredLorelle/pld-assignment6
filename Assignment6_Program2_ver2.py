@@ -29,6 +29,7 @@ while QuestionNum != 10:                        #loop until 10 questions
     else: 
         print(f"✘ Wrong! ✘ \nThe correct value for y is {CorrectAnswer}.\n")
 
+
 #2 description depending on the final score
 if CurrentScore >= 9:
     Description = "Excellent!!"
